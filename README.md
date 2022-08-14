@@ -1,6 +1,8 @@
 # Machine Learning - Árvore de Decisão | Regressão Logistica | Random Florest usando Stratified K-Fold e avaliando a métrica ROC AUC na base Out of Time 
 <hr>
 
+[![NPM](https://img.shields.io/github/license/tvlemes/machine-learning)](https://github.com/tvlemes/machine-learning/blob/main/license)
+
 Este repositório contém o estudo da base de dados do ifood, onde avalia se o cliente irá comprar no próximo mês ou não, não *churn* e *churn*, com base 
 nas variáveis quantidade paga, quantidade de pedidos e data de última venda.
 
