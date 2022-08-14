@@ -12,14 +12,12 @@ Foi avaliado o período de 06-2019 a 08-2019.
 
 Neste possui dois notebooks, a ABT - Analytical base table, e o de treinamento dos algoritmos de *Machine Learning* e Avaliação das Métricas.
 
-No primeiro consiste em criar uma base de analise dos dados o segundo faz todo o processo de treinamento dos algoritmos de Árvore de Decisão, Regressão Logistica e 
-Random Florest. Para avaliar as métricas foi utilizado os algoritmos de StratifiedKFold, Cross Validation e ROC AUC.
+No primeiro consiste em criar uma base de analise dos dados, abt.ipynb, o segundo, machine_learning.ipynb, faz todo o processo de treinamento dos algoritmos de Árvore de Decisão, Regressão Logistica e Random Florest. Para avaliar as métricas foi utilizado os algoritmos de StratifiedKFold, Cross Validation e ROC AUC.
 
 ## Licença
 
 Distribuído sob a licença MIT License. Veja a `LICENSE` para mais informações.
 
-<!-- Contatos -->
 ## Contatos
 
 Autor: `Thiago Vilarinho Lemes`
